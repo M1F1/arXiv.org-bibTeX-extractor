@@ -1,0 +1,14 @@
+{
+    "FixMatch": {
+        "bib_format": null,
+        "link": "https://arxiv.org/abs/2001.07685"
+    },
+    "MixMatch": {
+        "bib_format": null,
+        "link": "https://arxiv.org/abs/1905.02249"
+    },
+    "UDA": {
+        "bib_format": null,
+        "link": "https://arxiv.org/abs/1904.12848"
+    }
+}
